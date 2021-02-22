@@ -2221,7 +2221,7 @@ svg polyline[stroke="#7289da"] {
     background-image: none;
 }
 .da-divider span.da-content{
-    background-color: var(--dm-chat-bg);
+    background-color: #a1a1a1;
 }
 .theme-dark .wrapper-2aW0bm {
     background-color: #1d1d1d;
